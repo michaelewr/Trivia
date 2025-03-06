@@ -27,6 +27,8 @@ public class Collection2 {
     shuffleQuestions(); // Shuffle questions at the start
 }
 
+
+
 public void shuffleQuestions() {
     Collections.shuffle(arr);
 }
